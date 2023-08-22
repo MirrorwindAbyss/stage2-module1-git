@@ -15,7 +15,7 @@
 
 ```java
 public class Repo {
-    public static String REPO_LINK = "https://github.com/username/reposotoryName";
+    public static String REPO_LINK = "https://github.com/MirrorwindAbyss/stage2-module1-git";
 }
 ```
 
